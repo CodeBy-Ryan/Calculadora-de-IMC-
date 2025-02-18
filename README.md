@@ -4,7 +4,7 @@
 
 <p align="center"> @Code By Ryan</p>
 
-![Image](https://github.com/user-attachments/assets/imagem-exemplo.png)
+![Image](https://github.com/user-attachments/assets/73d1e8ba-bed9-4e4e-8a7e-96c5eb5e25da)
 
 <p align="center">Este projeto é uma Calculadora de IMC desenvolvida com HTML, CSS e JavaScript. Ele permite inserir peso e altura para calcular o Índice de Massa Corporal (IMC) e exibe a categoria de saúde correspondente, além de dicas personalizadas.</p>
 
