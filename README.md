@@ -25,7 +25,7 @@
 
 1. **Clone o repositório:**  
     ```bash
-    git clone https://github.com/CodeBy-Ryan/Calculadora-IMC.git
+    git clone https://github.com/CodeBy-Ryan/Calculadora-de-IMC-.git
     ```
 2. **Abra o arquivo `index.html`** no navegador para utilizar a calculadora.  
 
